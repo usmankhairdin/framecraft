@@ -1,0 +1,16 @@
+# Private, generated and local-only material
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.zip
+*.bak
+*.tmp
+node_modules/
+.cache/
+coverage/
+.qa*/
+docs/
+.DS_Store
+Thumbs.db

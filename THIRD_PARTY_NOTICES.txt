@@ -1,0 +1,35 @@
+FRAMECRAFT THIRD-PARTY NOTICES
+
+DM Sans variable font, unmodified local TTF
+Official upstream: https://github.com/google/fonts/tree/main/ofl/dmsans
+SIL Open Font License 1.1. Full copyright/grant: licenses/dm-sans-OFL.txt.
+
+Lenis 1.3.27, unmodified local browser distribution and stylesheet
+https://github.com/darkroomengineering/lenis
+MIT. Full copyright/grant: licenses/Lenis-MIT.txt.
+
+Shared MIT interaction mechanics
+One-clock Lenis regions, slim scrollbar drag/keys, menu focus/lock and measured
+FAQ mechanics adapt Nookwell / Taskline Lite. Retained complete grants:
+licenses/Nookwell-MIT.txt and licenses/Taskline-MIT.txt (including Themesberg).
+No paid shell, Taskline product board, Tailwind stylesheet, Nookwell property
+listing layout or sibling branding/content is included. Framecraft viewer,
+contact sheet and unsent brief are composed for this template.
+
+Photographs
+Six local photographs downloaded from the official images.pexels.com CDN.
+Exact page URLs, downloads, filenames and inspection notes are recorded in
+licenses/photo-sources.json. Primary licence: https://www.pexels.com/license/
+Pexels permits use in websites and templates, including commercial templates.
+These images are incorporated as illustrative content, not a stock-photo
+library. Do not sell unaltered copies independently, redistribute as stock,
+use the photos as trademarks or imply brand/photographer endorsement.
+The template's MIT licence does not replace the separate Pexels licence or
+provide property/trademark permissions for every possible future usage.
+Headphones contain a product brand; no commercial relationship is claimed.
+Final assets were viewed locally. No people, hands, portraits, wedding,
+fashion or skincare photography is included.
+
+Original identity and interface
+Framecraft bracket-frame SVG, crop-frame menu control and layout are original.
+Arrow/chevron glyphs use the bundled font; no external icon runtime required.

@@ -1,0 +1,48 @@
+[
+  {
+    "file": "assets/img/garden-house.jpg",
+    "source": "https://www.pexels.com/photo/white-and-brown-concrete-bungalow-under-clear-blue-sky-323780/",
+    "download": "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1800",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Exterior residential architecture only; no people."
+  },
+  {
+    "file": "assets/img/white-facade.jpg",
+    "source": "https://www.pexels.com/photo/white-building-in-city-25186381/",
+    "download": "https://images.pexels.com/photos/25186381/pexels-photo-25186381.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "photographer": "Elina Volkova",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Urban facade and tree only; no people."
+  },
+  {
+    "file": "assets/img/window-room.jpg",
+    "source": "https://www.pexels.com/photo/an-empty-kitchen-7587365/",
+    "download": "https://images.pexels.com/photos/7587365/pexels-photo-7587365.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "photographer": "Max Vakhtbovych",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Empty bright kitchen with curtains; no people, portraits or figurative art."
+  },
+  {
+    "file": "assets/img/living-space.jpg",
+    "source": "https://www.pexels.com/photo/photo-of-living-room-1643383/",
+    "download": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Empty living/dining/kitchen interior; no people. Wall artwork is an abstract animal figure."
+  },
+  {
+    "file": "assets/img/ceramic-study.jpg",
+    "source": "https://www.pexels.com/photo/elegant-minimalist-still-life-with-vases-34902344/",
+    "download": "https://images.pexels.com/photos/34902344/pexels-photo-34902344.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "photographer": "Valentin Ivantsov",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Ceramic vessels and geometric props only; no people."
+  },
+  {
+    "file": "assets/img/headphone-study.jpg",
+    "source": "https://www.pexels.com/photo/black-studio-headphones-on-white-background-30428610/",
+    "download": "https://images.pexels.com/photos/30428610/pexels-photo-30428610.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "photographer": "Vladislav Anchuk",
+    "license": "https://www.pexels.com/license/",
+    "inspection": "Viewed locally. Headphones only; no people or hands. Product branding is not presented as a client relationship."
+  }
+]
